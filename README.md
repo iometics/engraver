@@ -1,7 +1,8 @@
 #ENGRAVER
 =============
 
-This is the PoCC reference plotter for Burstcoin.
+This is an experimental development fork of the Burstcoin reference plotter.  
+This exploit is based on the Engraver PoCC reference plotter.
 
 It generates PoC2 files and is intended to work on any UNIX system
 with a sufficiently sane filesystem (able to pre-allocate space), but
@@ -164,3 +165,29 @@ When mining it is recommended to add the option ```ro``` to avoid sudden damages
 * GPU support
 * optimizations
 * BFS support
+
+### References:
+#### PoC2 explained: a needed security upgrade:
+https://www.burstcoin.ist/2018/03/01/poc2-explained-a-needed-security-upgrade/
+
+#### How to convert PoC1 to PoC2:
+https://www.minesomeburst.com/how-to-convert-poc1-to-poc2/
+
+#### Technical Informtion to Create Plot Files:
+https://burstwiki.org/wiki/Technical_information_to_create_plot_files
+A pdf version of this text is available here http://files.getburst.net/Technical-information-to-create-plot-files.pdf 
+
+#### How Burst puts Bitcoin to shame
+https://www.burstcoin.ist/2017/09/22/how-burst-puts-bitcoin-to-shame/
+
+#### The Dymaxion Explained in Layman’s Terms
+https://www.burstcoin.ist/2017/12/27/the-dymaxion-explained-in-laymans-terms/
+
+#### The Burst Dymaxion
+##### An Arbitrary Scalable, Energy Efficient and Anonymous Transaction Network Based on Colored Tangles
+https://www.burst-coin.org/wp-content/uploads/2017/07/The-Burst-Dymaxion-1.00.pdf
+
+#### Serguei Popov. The Tangle. , 2017. [Online; accessed 21-October- 2017].
+https://iota.org/IOTA_Whitepaper.pdf
+
+
